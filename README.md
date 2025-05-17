@@ -1,10 +1,13 @@
-# 🔐 Ethical Hacking Project
+# 🔐 Ethical Hacking Project:Simulating Real-World Network Exploitation and Defense
 
-## Scanning and Enumerating a Local Network with Nmap
 
 **Project:** Simulating Real-World Network Exploitation and Defense
 
 ---
+
+Author- Shashwat Bhushan
+Semester- 06
+Section CY6
 
 ## 🎯 Project Objectives
 
